@@ -1,2 +1,2 @@
-# phyparser
-Physical parameter parser
+# PhyParser
+Physical parameter parser.
